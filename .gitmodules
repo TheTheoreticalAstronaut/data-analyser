@@ -1,0 +1,3 @@
+[submodule "co2-data"]
+	path = co2-data
+	url = https://github.com/owid/co2-data
